@@ -40,8 +40,12 @@ public class MainMenu {
                 case 2:
                     break;
                 case 3:
+                    ViewMenu viewMenu = new ViewMenu();
+                    viewMenu.viewGroups();
                     break;
                 case 4:
+                    RemoveMenu removeMenu = new RemoveMenu();
+                    removeMenu.removeStudentFromGroup();
                     break;
                 case 5:
                     System.out.println("Have a Nice Day!");

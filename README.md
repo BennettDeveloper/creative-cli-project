@@ -126,7 +126,7 @@ Your application must run **in the command line**.
 
 ---
 
-# 🏁 Final Goal
+# Final Goal
 
 This project is about demonstrating that you can:
 

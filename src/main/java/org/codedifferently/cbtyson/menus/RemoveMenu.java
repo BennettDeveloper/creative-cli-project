@@ -39,6 +39,6 @@ public class RemoveMenu {
             }
         }
 
-        System.out.println("Group not found.");
+        System.out.println("Group not found.").;
     }
 }
